@@ -1,295 +1,589 @@
 
 ***
 
-# <projectName>
-
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
-
-# By:
-
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
-
-### Top
-
-# `README.md`
-
-***
-
-## Read this article in a different language
-
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
-
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
-
-***
-
-# Index
-
-[00.0 - Top](#Top)
-
-> [00.1 - Title](#<projectName>)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#RepositoryName)
-
-[02.0 - About](#About)
-
-[03.0 - Wiki](#Wiki)
-
-[04.0 - Version history](#Version-history)
-
-[05.0 - Software status](#Software-status)
-
-[06.0 - Sponsor info](#Sponsor-info)
-
-[07.0 - Contributers](#Contributers)
-
-[08.0 - Issues](#Issues)
-
-> [08.1 - Current issues](#Current-issues)
-
-> [08.2 - Past issues](#Past-issues)
-
-> [08.3 - Past pull requests](#Past-pull-requests)
-
-> [08.4 - Active pull requests](#Active-pull-requests)
-
-[09.0 - Resources](#Resources)
-
-[10.0 - Contributing](#Contributing)
-
-[11.0 - About README](#About-README)
-
-[12.0 - README Version history](#README-version-history)
-
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [13.1 - End of file](#EOF)
-
-***
-
-# <repoName>
-<repo_description>
-
-***
-
-## About
-
-See above. <extendedRepoDescription>
-
-***
-
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
-
-***
-
-## Sponsor info
-
-![SponsorButton.png](SponsorButton.png)
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-***
-
-## Version history
-
-**Version history currently unavailable**
-
-**No other versions listed**
-
-***
-
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
-
-***
-
-## Issues
-
-### Current issues
-
-* None at the moment
-
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
-
-***
-
-## About README
-
-File type: `Markdown (*.md)`
-
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
-
-Line count: `0,296`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-[Back to top](#Top) [Exit](https://github.com)
-
-### EOF
-
-***
+# Original draft (2024, January 27th)
+
+```text
+Apple Valley Picker
+A tool for generating names of MacOS releases, based on the California naming scheme. Named after the city Apple Valley in California
+A simple little joke program
+Design your own MacOS release
+Write in: Swift (variant 1 only) Python (variant 2 only) CSV (all variants)
+
+Pick a new name (select a year)
+Disclude from year
+
+CSV data: ExcludeList.csv
+Version,Location,Year
+Version_10.9,"Mavericks",2013
+Version_10.10,"Yosemite",2014
+Version_10.11,"El Capitan",2015
+Version_10.12,"Sierra",2016
+Version_10.13,"High Sierra",2017
+Version_10.14,"Mojave",2018
+Version_10.15,"Catalina",2019
+Version_11,"Big Sur",2020
+Version_12,"Monterey",2021
+Version_13,"Ventura",2022
+Version_14,"Sonoma",2023
+
+If exclusion from a year is on, these will not show up on certain set years
+
+Pick an identifier:
+
+Location:City (California)
+Location:County (California)
+Location:Geographical (parks, deserts, mountains, etc.) (California)
+
+Cities (482):
+
+Adelanto 
+Agoura Hills 
+Alameda 
+Albany 
+Alhambra 
+Aliso Viejo 
+Alturas
+Amador City 
+American Canyon 
+Anaheim 
+Anderson 
+Angels Camp 
+Antioch 
+Apple Valley 
+Arcadia 
+Arcata 
+Arroyo Grande 
+Artesia 
+Arvin 
+Atascadero 
+Atherton 
+Atwater 
+Auburn
+Avalon 
+Avenal 
+Azusa 
+Bakersfield
+Baldwin Park 
+Banning 
+Barstow 
+Beaumont 
+Bell 
+Bell Gardens 
+Bellflower 
+Belmont 
+Belvedere 
+Benicia 
+Berkeley 
+Beverly Hills 
+Big Bear Lake 
+Biggs 
+Bishop 
+Blue Lake 
+Blythe 
+Bradbury 
+Brawley 
+Brea 
+Brentwood 
+Brisbane 
+Buellton 
+Buena Park 
+Burbank 
+Burlingame 
+Calabasas 
+Calexico 
+California City 
+Calimesa 
+Calipatria 
+Calistoga 
+Camarillo 
+Campbell 
+Canyon Lake 
+Capitola 
+Carlsbad 
+Carmel-by-the-Sea 
+Carpinteria 
+Carson 
+Cathedral City 
+Ceres 
+Cerritos 
+Chico 
+Chino 
+Chino Hills 
+Chowchilla 
+Chula Vista 
+Citrus Heights 
+Claremont 
+Clayton 
+Clearlake 
+Cloverdale 
+Clovis 
+Coachella 
+Coalinga 
+Colfax 
+Colma 
+Colton 
+Colusa
+Commerce 
+Compton 
+Concord 
+Corcoran 
+Corning 
+Corona 
+Coronado 
+Corte Madera 
+Costa Mesa 
+Cotati 
+Covina 
+Crescent City
+Cudahy 
+Culver City 
+Cupertino 
+Cypress 
+Daly City 
+Dana Point 
+Danville 
+Davis 
+Del Mar 
+Del Rey Oaks 
+Delano 
+Desert Hot Springs 
+Diamond Bar 
+Dinuba 
+Dixon 
+Dorris 
+Dos Palos 
+Downey 
+Duarte 
+Dublin 
+Dunsmuir 
+East Palo Alto 
+Eastvale 
+El Cajon 
+El Centro
+El Cerrito 
+El Monte 
+El Segundo 
+Elk Grove 
+Emeryville 
+Encinitas 
+Escalon 
+Escondido 
+Etna 
+Eureka
+Exeter 
+Fairfax 
+Fairfield
+Farmersville 
+Ferndale 
+Fillmore 
+Firebaugh 
+Folsom 
+Fontana 
+Fort Bragg 
+Fort Jones 
+Fortuna 
+Foster City 
+Fountain Valley 
+Fowler 
+Fremont 
+Fresno
+Fullerton 
+Galt 
+Garden Grove 
+Gardena 
+Gilroy 
+Glendale 
+Glendora 
+Goleta 
+Gonzales 
+Grand Terrace 
+Grass Valley 
+Greenfield 
+Gridley 
+Grover Beach 
+Guadalupe 
+Gustine 
+Half Moon Bay 
+Hanford
+Hawaiian Gardens 
+Hawthorne 
+Hayward 
+Healdsburg 
+Hemet 
+Hercules 
+Hermosa Beach 
+Hesperia 
+Hidden Hills 
+Highland 
+Hillsborough 
+Hollister
+Holtville 
+Hughson 
+Huntington Beach 
+Huntington Park 
+Huron 
+Imperial 
+Imperial Beach 
+Indian Wells 
+Indio 
+Industry 
+Inglewood 
+Ione 
+Irvine 
+Irwindale 
+Isleton 
+Jackson
+Jurupa Valley 
+Kerman 
+King City 
+Kingsburg 
+La Cañada Flintridge 
+La Habra 
+La Habra Heights 
+La Mesa 
+La Mirada 
+La Palma 
+La Puente 
+La Quinta 
+La Verne 
+Lafayette 
+Laguna Beach 
+Laguna Hills 
+Laguna Niguel 
+Laguna Woods 
+Lake Elsinore 
+Lake Forest 
+Lakeport
+Lakewood 
+Lancaster 
+Larkspur 
+Lathrop 
+Lawndale 
+Lemon Grove 
+Lemoore 
+Lincoln 
+Lindsay 
+Live Oak 
+Livermore 
+Livingston 
+Lodi 
+Loma Linda 
+Lomita 
+Lompoc 
+Long Beach 
+Loomis 
+Los Alamitos 
+Los Altos 
+Los Altos Hills 
+Los Angeles
+Los Banos 
+Los Gatos 
+Loyalton 
+Lynwood 
+Madera
+Malibu 
+Mammoth Lakes 
+Manhattan Beach 
+Manteca 
+Maricopa 
+Marina 
+Martinez
+Marysville
+Maywood 
+McFarland 
+Mendota 
+Menifee 
+Menlo Park 
+Merced
+Mill Valley 
+Millbrae 
+Milpitas 
+Mission Viejo 
+Modesto
+Monrovia 
+Montague 
+Montclair 
+Monte Sereno 
+Montebello 
+Monterey 
+Monterey Park 
+Moorpark 
+Moraga 
+Moreno Valley 
+Morgan Hill 
+Morro Bay 
+Mount Shasta 
+Mountain View 
+Murrieta 
+Napa
+National City 
+Needles 
+Nevada City
+Newark 
+Newman 
+Newport Beach 
+Norco 
+Norwalk 
+Novato 
+Oakdale 
+Oakland
+Oakley 
+Oceanside 
+Ojai 
+Ontario 
+Orange 
+Orange Cove 
+Orinda 
+Orland 
+Oroville
+Oxnard 
+Pacific Grove 
+Pacifica 
+Palm Desert 
+Palm Springs 
+Palmdale 
+Palo Alto 
+Palos Verdes Estates 
+Paradise 
+Paramount 
+Parlier 
+Pasadena 
+Paso Robles 
+Patterson 
+Perris 
+Petaluma 
+Pico Rivera 
+Piedmont 
+Pinole 
+Pismo Beach 
+Pittsburg 
+Placentia 
+Placerville
+Pleasant Hill 
+Pleasanton 
+Plymouth 
+Point Arena 
+Pomona 
+Port Hueneme 
+Porterville 
+Portola 
+Portola Valley 
+Poway 
+Rancho Cordova 
+Rancho Cucamonga 
+Rancho Mirage 
+Rancho Palos Verdes 
+Rancho Santa Margarita 
+Red Bluff
+Redding
+Redlands 
+Redondo Beach 
+Redwood City
+Reedley 
+Rialto 
+Richmond 
+Ridgecrest 
+Rio Dell 
+Rio Vista 
+Ripon 
+Riverbank 
+Riverside
+Rocklin 
+Rohnert Park 
+Rolling Hills 
+Rolling Hills Estates 
+Rosemead 
+Roseville 
+Ross 
+SacramentoCapital city 
+St. Helena 
+Salinas
+San Anselmo 
+San Bernardino
+San Bruno 
+San Carlos 
+San Clemente 
+San Diego
+San Dimas 
+San Fernando 
+San Francisco
+San Gabriel 
+San Jacinto 
+San Joaquin 
+San Jose
+San Juan Bautista 
+San Juan Capistrano 
+San Leandro 
+San Luis Obispo
+San Marcos 
+San Marino 
+San Mateo 
+San Pablo 
+San Rafael
+San Ramon 
+Sand City 
+Sanger 
+Santa Ana
+Santa Barbara
+Santa Clara 
+Santa Clarita 
+Santa Cruz
+Santa Fe Springs 
+Santa Maria 
+Santa Monica 
+Santa Paula 
+Santa Rosa
+Santee 
+Saratoga 
+Sausalito 
+Scotts Valley 
+Seal Beach 
+Seaside 
+Sebastopol 
+Selma 
+Shafter 
+Shasta Lake 
+Sierra Madre 
+Signal Hill 
+Simi Valley 
+Solana Beach 
+Soledad 
+Solvang 
+Sonoma 
+Sonora
+South El Monte 
+South Gate 
+South Lake Tahoe 
+South Pasadena 
+South San Francisco 
+Stanton 
+Stockton
+Suisun City 
+Sunnyvale 
+Susanville
+Sutter Creek 
+Taft 
+Tehachapi 
+Tehama 
+Temecula 
+Temple City 
+Thousand Oaks 
+Tiburon 
+Torrance 
+Tracy 
+Trinidad 
+Truckee 
+Tulare 
+Tulelake 
+Turlock 
+Tustin 
+Twentynine Palms 
+Ukiah
+Union City 
+Upland 
+Vacaville 
+Vallejo 
+Ventura
+Vernon 
+Victorville 
+Villa Park 
+Visalia
+Vista 
+Walnut 
+Walnut Creek 
+Wasco 
+Waterford 
+Watsonville 
+Weed 
+West Covina 
+West Hollywood 
+West Sacramento 
+Westlake Village 
+Westminster 
+Westmorland 
+Wheatland 
+Whittier 
+Wildomar 
+Williams 
+Willits 
+Willows
+Windsor 
+Winters 
+Woodlake 
+Woodland
+Woodside 
+Yorba Linda 
+Yountville 
+Yreka
+Yuba City
+Yucaipa 
+Yucca Valley 
+
+Counties (55):
+
+Alameda 
+Amador 
+Butte 
+Calaveras 
+Colusa 
+Contra Costa 
+Del Norte 
+El Dorado 
+Fresno 
+Glenn 
+Humboldt 
+Imperial 
+Inyo 
+Kern 
+Kings  
+Lake 
+Lassen 
+Los Angeles 
+Madera 
+Marin 
+Mendocino 
+Merced 
+Modoc 
+Mono 
+Monterey 
+Napa 
+Nevada
+Orange
+Placer 
+Plumas 
+Riverside
+Sacramento 
+San Benito 
+San Bernardino 
+San Diego 
+San Francisco 
+San Joaquin 
+San Luis Obispo 
+San Mateo 
+Santa Barbara 
+Santa Clara 
+Santa Cruz 
+Shasta  
+Sierra 
+Siskiyou 
+Solano 
+Sonoma 
+Stanislaus 
+Sutter 
+Tehama 
+Tulare
+Tuolumne 
+Ventura 
+Yolo 
+Yuba 
+
+Geography (5):
+WIP
+
+Death Valley
+Furnace Creek
+Sierra
+High Sierra
+Mojave
+```
