@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🍎️⛰️🏴󠁵󠁳󠁣󠁡󠁿⛰️🍏️💾️ Apple Valley Picker is a tool for generating names of MacOS releases, based on the California naming scheme. Named after the city Apple Valley in California, it is a joke program that is part of the WacOS operating system project. For early Mac OS X, see WacOS Big Cat picker
